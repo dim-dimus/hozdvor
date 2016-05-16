@@ -32,4 +32,8 @@ Install
 
 - import /protected/data/hozdvor_yupe.sql to new database
 
+- install Composer (https://getcomposer.org/download/) and reload pc
+
+- Go to root project folder and run command "composer install"
+
 - launch hozdvor.local

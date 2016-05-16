@@ -1,0 +1,185 @@
+a:6:{s:6:"config";a:4:{s:10:"phpVersion";s:6:"5.4.45";s:10:"yiiVersion";s:6:"1.1.16";s:11:"application";a:4:{s:3:"yii";s:6:"1.1.16";s:4:"name";s:5:"Yupe!";s:8:"timezone";s:11:"Europe/Kiev";s:5:"debug";b:1;}s:3:"php";a:4:{s:7:"version";s:6:"5.4.45";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:0;}}s:7:"request";a:13:{s:7:"flashes";a:0:{}s:10:"statusCode";i:200;s:14:"requestHeaders";a:9:{s:15:"Accept-Language";s:2:"en";s:15:"Accept-Encoding";s:4:"gzip";s:6:"Accept";s:193:"text/html,text/plain,text/xml,text/*,application/xml,application/xhtml+xml,application/rss+xml,application/atom+xml,application/rdf+xml,application/php,application/x-php,application/x-httpd-php";s:10:"User-Agent";s:79:"Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)";s:10:"Connection";s:5:"close";s:9:"X-Real-Ip";s:14:"62.210.148.246";s:17:"X-Forwarded-Proto";s:4:"http";s:15:"X-Forwarded-For";s:14:"62.210.148.246";s:4:"Host";s:11:"hozdvor.org";}s:15:"responseHeaders";a:6:{s:12:"X-Powered-By";s:10:"PHP/5.4.45";s:10:"Set-Cookie";a:3:{i:0;s:54:"PHPSESSID=7lqsju81n24j30id524u7hoib5; path=/; HttpOnly";i:1;s:79:"language=4f9d248008a0f41d955aad6363b1938ed8126ab5s%3A5%3A%22zh_cn%22%3B; path=/";i:2;s:127:"YUPE_TOKEN=76f76c351c2ddbaa3acb4b8f76fc3cec0b4c8c8fs%3A40%3A%2228fc22d95430c893af1baea01adaef12af771c72%22%3B; path=/; httponly";}s:7:"Expires";s:29:"Thu, 19 Nov 1981 08:52:00 GMT";s:13:"Cache-Control";s:62:"no-store, no-cache, must-revalidate, post-check=0, pre-check=0";s:6:"Pragma";s:8:"no-cache";s:12:"Content-type";s:9:"text/html";}s:5:"route";s:17:"homepage/hp/index";s:6:"action";s:27:"HpController::actionIndex()";s:12:"actionParams";a:1:{s:8:"language";s:5:"zh_cn";}s:6:"SERVER";a:34:{s:4:"PATH";s:29:"/sbin:/usr/sbin:/bin:/usr/bin";s:3:"PWD";s:24:"/var/www/php-bin/arlekon";s:5:"SHLVL";s:1:"0";s:11:"SCRIPT_NAME";s:10:"/index.php";s:11:"REQUEST_URI";s:6:"/zh_cn";s:12:"QUERY_STRING";s:0:"";s:14:"REQUEST_METHOD";s:3:"GET";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.0";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:12:"REDIRECT_URL";s:6:"/zh_cn";s:11:"REMOTE_PORT";s:5:"37679";s:15:"SCRIPT_FILENAME";s:54:"/var/www/arlekon/data/www/hozdvor.org/public/index.php";s:12:"SERVER_ADMIN";s:16:"dmitryod@mail.ru";s:13:"DOCUMENT_ROOT";s:44:"/var/www/arlekon/data/www/hozdvor.org/public";s:11:"REMOTE_ADDR";s:14:"62.210.148.246";s:11:"SERVER_PORT";s:2:"80";s:11:"SERVER_ADDR";s:14:"62.210.102.101";s:11:"SERVER_NAME";s:11:"hozdvor.org";s:15:"SERVER_SOFTWARE";s:6:"Apache";s:16:"SERVER_SIGNATURE";s:0:"";s:20:"HTTP_ACCEPT_LANGUAGE";s:2:"en";s:20:"HTTP_ACCEPT_ENCODING";s:4:"gzip";s:11:"HTTP_ACCEPT";s:193:"text/html,text/plain,text/xml,text/*,application/xml,application/xhtml+xml,application/rss+xml,application/atom+xml,application/rdf+xml,application/php,application/x-php,application/x-httpd-php";s:15:"HTTP_USER_AGENT";s:79:"Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)";s:15:"HTTP_CONNECTION";s:5:"close";s:14:"HTTP_X_REAL_IP";s:14:"62.210.148.246";s:22:"HTTP_X_FORWARDED_PROTO";s:4:"http";s:20:"HTTP_X_FORWARDED_FOR";s:14:"62.210.148.246";s:9:"HTTP_HOST";s:11:"hozdvor.org";s:15:"REDIRECT_STATUS";s:3:"200";s:9:"FCGI_ROLE";s:9:"RESPONDER";s:8:"PHP_SELF";s:10:"/index.php";s:18:"REQUEST_TIME_FLOAT";d:1462010011.417972087860107421875;s:12:"REQUEST_TIME";i:1462010011;}s:3:"GET";a:1:{s:8:"language";s:5:"zh_cn";}s:4:"POST";a:0:{}s:6:"COOKIE";a:0:{}s:5:"FILES";a:0:{}s:7:"SESSION";a:1:{s:40:"7f5577d4a594b11998d21a61fbe692c1language";s:5:"zh_cn";}}s:3:"log";a:1:{s:8:"messages";a:56:{i:0;a:4:{i:0;s:217:"Loading "urlManager" application component
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/urlManager/LanguageBehavior.php (36)
+in /var/www/arlekon/data/www/hozdvor.org/public/index.php (39)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1462010011.4263670444488525390625;}i:1;a:4:{i:0;s:353:"Loading "yupe" module
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/urlManager/LangUrlManager.php (85)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/urlManager/LangUrlManager.php (39)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/urlManager/LanguageBehavior.php (36)";i:1;s:5:"trace";i:2;s:19:"system.base.CModule";i:3;d:1462010011.4265758991241455078125;}i:2;a:4:{i:0;s:311:"Loading "db" application component
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/WebModule.php (1031)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/WebModule.php (1014)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/YupeModule.php (644)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1462010011.4268639087677001953125;}i:3;a:4:{i:0;s:298:"Opening DB connection
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/WebModule.php (1031)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/WebModule.php (1014)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/YupeModule.php (644)";i:1;s:5:"trace";i:2;s:23:"system.db.CDbConnection";i:3;d:1462010011.4269969463348388671875;}i:4;a:4:{i:0;s:520:"Querying SQL: 
+                    SELECT param_name, param_value
+                        FROM yupe_yupe_settings
+                        WHERE module_id = :module_id AND type = :type
+                    . Bound with :module_id='yupe', :type=1
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/WebModule.php (1042)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/WebModule.php (1014)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/YupeModule.php (644)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1462010011.42858791351318359375;}i:5;a:4:{i:0;s:314:"Loading "cache" application component
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/WebModule.php (1042)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/WebModule.php (1014)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/YupeModule.php (644)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1462010011.4286220073699951171875;}i:6;a:4:{i:0;s:625:"Serving "yii:dbquery:fetchAll:mysql:host=127.0.0.1;port=3306;dbname=hozdvor_yupe:hozdvor_yupe:
+                    SELECT param_name, param_value
+                        FROM yupe_yupe_settings
+                        WHERE module_id = :module_id AND type = :type
+                    :a:2:{s:10:":module_id";s:4:"yupe";s:5:":type";i:1;}" from cache
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/WebModule.php (1042)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/WebModule.php (1014)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/YupeModule.php (644)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1462010011.429009914398193359375;}i:7;a:4:{i:0;s:304:"Query result found in cache
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/WebModule.php (1042)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/WebModule.php (1014)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/YupeModule.php (644)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1462010011.42903900146484375;}i:8;a:4:{i:0;s:327:"Serving "Yii.CUrlManager.rules" from cache
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/urlManager/LangUrlManager.php (59)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/urlManager/LanguageBehavior.php (36)
+in /var/www/arlekon/data/www/hozdvor.org/public/index.php (39)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1462010011.43056392669677734375;}i:9;a:4:{i:0;s:100:"Loading "debug" application component
+in /var/www/arlekon/data/www/hozdvor.org/public/index.php (39)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1462010011.4306919574737548828125;}i:10;a:4:{i:0;s:324:"Loading "log" application component
+in /var/www/arlekon/data/www/hozdvor.org/vendor/zhuravljov/yii2-debug/Yii2DebugPanel.php (279)
+in /var/www/arlekon/data/www/hozdvor.org/vendor/zhuravljov/yii2-debug/Yii2DebugPanel.php (111)
+in /var/www/arlekon/data/www/hozdvor.org/vendor/zhuravljov/yii2-debug/panels/Yii2LogPanel.php (24)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1462010011.43150997161865234375;}i:11;a:4:{i:0;s:309:"Loading "request" application component
+in /var/www/arlekon/data/www/hozdvor.org/vendor/zhuravljov/yii2-debug/Yii2Debug.php (294)
+in /var/www/arlekon/data/www/hozdvor.org/vendor/zhuravljov/yii2-debug/Yii2Debug.php (167)
+in /var/www/arlekon/data/www/hozdvor.org/vendor/zhuravljov/yii2-debug/Yii2Debug.php (115)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1462010011.432373046875;}i:12;a:4:{i:0;s:324:"Loading "user" application component
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/urlManager/LanguageBehavior.php (114)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/urlManager/LanguageBehavior.php (95)
+in /var/www/arlekon/data/www/hozdvor.org/public/index.php (39)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1462010011.4327099323272705078125;}i:13;a:4:{i:0;s:327:"Loading "session" application component
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/urlManager/LanguageBehavior.php (114)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/urlManager/LanguageBehavior.php (95)
+in /var/www/arlekon/data/www/hozdvor.org/public/index.php (39)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1462010011.4328899383544921875;}i:14;a:4:{i:0;s:335:"Loading "securityManager" application component
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/urlManager/LanguageBehavior.php (114)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/urlManager/LanguageBehavior.php (95)
+in /var/www/arlekon/data/www/hozdvor.org/public/index.php (39)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1462010011.43311405181884765625;}i:15;a:4:{i:0;s:334:"Loading "statePersister" application component
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/urlManager/LanguageBehavior.php (116)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/urlManager/LanguageBehavior.php (95)
+in /var/www/arlekon/data/www/hozdvor.org/public/index.php (39)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1462010011.4333369731903076171875;}i:16;a:4:{i:0;s:394:"Serving "Yii.CStatePersister./var/www/arlekon/data/www/hozdvor.org/protected/runtime/state.bin" from cache
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/urlManager/LanguageBehavior.php (116)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/urlManager/LanguageBehavior.php (95)
+in /var/www/arlekon/data/www/hozdvor.org/public/index.php (39)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1462010011.43363189697265625;}i:17;a:4:{i:0;s:88:"Loading "homepage" module
+in /var/www/arlekon/data/www/hozdvor.org/public/index.php (39)";i:1;s:5:"trace";i:2;s:19:"system.base.CModule";i:3;d:1462010011.433762073516845703125;}i:18;a:4:{i:0;s:532:"Querying SQL: 
+                    SELECT param_name, param_value
+                        FROM yupe_yupe_settings
+                        WHERE module_id = :module_id AND type = :type
+                    . Bound with :module_id='homepage', :type=1
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/WebModule.php (1042)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/WebModule.php (1014)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/homepage/HomepageModule.php (222)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1462010011.4339530467987060546875;}i:19;a:4:{i:0;s:331:"Serving "__tag__homepage" from cache
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/extensions/tagcache/TagsCache.php (58)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/WebModule.php (1042)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/WebModule.php (1014)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1462010011.4343779087066650390625;}i:20;a:4:{i:0;s:637:"Serving "yii:dbquery:fetchAll:mysql:host=127.0.0.1;port=3306;dbname=hozdvor_yupe:hozdvor_yupe:
+                    SELECT param_name, param_value
+                        FROM yupe_yupe_settings
+                        WHERE module_id = :module_id AND type = :type
+                    :a:2:{s:10:":module_id";s:8:"homepage";s:5:":type";i:1;}" from cache
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/WebModule.php (1042)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/WebModule.php (1014)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/homepage/HomepageModule.php (222)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1462010011.4344089031219482421875;}i:21;a:4:{i:0;s:312:"Query result found in cache
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/WebModule.php (1042)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/WebModule.php (1014)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/homepage/HomepageModule.php (222)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1462010011.4344310760498046875;}i:22;a:4:{i:0;s:219:"Loading "eventManager" application component
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/controllers/FrontController.php (34)
+in /var/www/arlekon/data/www/hozdvor.org/public/index.php (39)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1462010011.435017108917236328125;}i:23;a:4:{i:0;s:219:"Loading "themeManager" application component
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/controllers/FrontController.php (40)
+in /var/www/arlekon/data/www/hozdvor.org/public/index.php (39)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1462010011.435482025146484375;}i:24;a:4:{i:0;s:309:"Loading "assetManager" application component
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/Theme.php (29)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/controllers/FrontController.php (40)
+in /var/www/arlekon/data/www/hozdvor.org/public/index.php (39)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1462010011.4357049465179443359375;}i:25;a:4:{i:0;s:290:"Loading "bootstrap" application component
+in /var/www/arlekon/data/www/hozdvor.org/themes/default/bootstrap.php (5)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/controllers/FrontController.php (45)
+in /var/www/arlekon/data/www/hozdvor.org/public/index.php (39)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1462010011.4358770847320556640625;}i:26;a:4:{i:0;s:326:"Loading "clientScript" application component
+in /var/www/arlekon/data/www/hozdvor.org/vendor/clevertech/yii-booster/src/components/Booster.php (420)
+in /var/www/arlekon/data/www/hozdvor.org/vendor/clevertech/yii-booster/src/components/Booster.php (212)
+in /var/www/arlekon/data/www/hozdvor.org/themes/default/bootstrap.php (5)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1462010011.4360029697418212890625;}i:27;a:4:{i:0;s:302:"Loading "store" module
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/store/components/repository/ProductRepository.php (170)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/homepage/controllers/HpController.php (75)
+in /var/www/arlekon/data/www/hozdvor.org/public/index.php (39)";i:1;s:5:"trace";i:2;s:19:"system.base.CModule";i:3;d:1462010011.4368770122528076171875;}i:28;a:4:{i:0;s:523:"Querying SQL: 
+                    SELECT param_name, param_value
+                        FROM yupe_yupe_settings
+                        WHERE module_id = :module_id AND type = :type
+                    . Bound with :module_id='store', :type=1
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/WebModule.php (1042)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/WebModule.php (1014)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/store/StoreModule.php (372)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1462010011.4370439052581787109375;}i:29;a:4:{i:0;s:628:"Serving "yii:dbquery:fetchAll:mysql:host=127.0.0.1;port=3306;dbname=hozdvor_yupe:hozdvor_yupe:
+                    SELECT param_name, param_value
+                        FROM yupe_yupe_settings
+                        WHERE module_id = :module_id AND type = :type
+                    :a:2:{s:10:":module_id";s:5:"store";s:5:":type";i:1;}" from cache
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/WebModule.php (1042)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/WebModule.php (1014)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/store/StoreModule.php (372)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1462010011.4371650218963623046875;}i:30;a:4:{i:0;s:306:"Query result found in cache
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/WebModule.php (1042)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/WebModule.php (1014)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/store/StoreModule.php (372)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1462010011.43719196319580078125;}i:31;a:4:{i:0;s:387:"Loading "uploadManager" application component
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/behaviors/FileUploadBehavior.php (83)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/behaviors/ImageUploadBehavior.php (52)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/store/components/repository/ProductRepository.php (178)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1462010011.43793201446533203125;}i:32;a:4:{i:0;s:455:"Serving "yii:dbschemamysql:host=127.0.0.1;port=3306;dbname=hozdvor_yupe:hozdvor_yupe:{{store_product}}" from cache
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/behaviors/FileUploadBehavior.php (183)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/behaviors/FileUploadBehavior.php (85)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/behaviors/ImageUploadBehavior.php (52)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1462010011.438641071319580078125;}i:33;a:4:{i:0;s:374:"Loading "thumbnailer" application component
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/behaviors/ImageUploadBehavior.php (54)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/store/components/repository/ProductRepository.php (178)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/homepage/controllers/HpController.php (75)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1462010011.439013004302978515625;}i:34;a:4:{i:0;s:209:"Loading "viewRenderer" application component
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/homepage/controllers/HpController.php (80)
+in /var/www/arlekon/data/www/hozdvor.org/public/index.php (39)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1462010011.4394629001617431640625;}i:35;a:4:{i:0;s:293:"Loading "messages" application component
+in /var/www/arlekon/data/www/hozdvor.org/themes/default/views/homepage/hp/store.php (9)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/homepage/controllers/HpController.php (80)
+in /var/www/arlekon/data/www/hozdvor.org/public/index.php (39)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1462010011.4408130645751953125;}i:36;a:4:{i:0;s:344:"Loading "widgetFactory" application component
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/controllers/Controller.php (157)
+in /var/www/arlekon/data/www/hozdvor.org/themes/default/views/homepage/hp/store.php (39)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/homepage/controllers/HpController.php (80)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1462010011.4410159587860107421875;}i:37;a:4:{i:0;s:315:"Product.count()
+in /var/www/arlekon/data/www/hozdvor.org/vendor/clevertech/yii-booster/src/widgets/TbListView.php (43)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/controllers/Controller.php (157)
+in /var/www/arlekon/data/www/hozdvor.org/themes/default/views/homepage/hp/store.php (39)";i:1;s:5:"trace";i:2;s:26:"system.db.ar.CActiveRecord";i:3;d:1462010011.4414350986480712890625;}i:38;a:4:{i:0;s:406:"Querying SQL: SELECT COUNT(*) FROM `yupe_store_product` `t` WHERE t.status = :status. Bound with :status=1
+in /var/www/arlekon/data/www/hozdvor.org/vendor/clevertech/yii-booster/src/widgets/TbListView.php (43)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/controllers/Controller.php (157)
+in /var/www/arlekon/data/www/hozdvor.org/themes/default/views/homepage/hp/store.php (39)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1462010011.4417169094085693359375;}i:39;a:4:{i:0;s:317:"Product.findAll()
+in /var/www/arlekon/data/www/hozdvor.org/vendor/clevertech/yii-booster/src/widgets/TbListView.php (43)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/controllers/Controller.php (157)
+in /var/www/arlekon/data/www/hozdvor.org/themes/default/views/homepage/hp/store.php (39)";i:1;s:5:"trace";i:2;s:26:"system.db.ar.CActiveRecord";i:3;d:1462010011.44215106964111328125;}i:40;a:4:{i:0;s:430:"Querying SQL: SELECT t.* FROM `yupe_store_product` `t` WHERE t.status = :status ORDER BY t.position LIMIT 20. Bound with :status=1
+in /var/www/arlekon/data/www/hozdvor.org/vendor/clevertech/yii-booster/src/widgets/TbListView.php (43)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/controllers/Controller.php (157)
+in /var/www/arlekon/data/www/hozdvor.org/themes/default/views/homepage/hp/store.php (39)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1462010011.4422900676727294921875;}i:41;a:4:{i:0;s:343:"Loading "coreMessages" application component
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/controllers/Controller.php (157)
+in /var/www/arlekon/data/www/hozdvor.org/themes/default/views/homepage/hp/store.php (39)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/homepage/controllers/HpController.php (80)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1462010011.443047046661376953125;}i:42;a:4:{i:0;s:359:"Loading "cart" application component
+in /var/www/arlekon/data/www/hozdvor.org/themes/default/views/cart/widgets/ShoppingCartWidget/shoppingCart.php (9)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/cart/widgets/ShoppingCartWidget.php (26)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/controllers/Controller.php (157)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1462010011.4458000659942626953125;}i:43;a:4:{i:0;s:372:"Loading "couponManager" application component
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/cart/components/shopping-cart/EShoppingCart.php (38)
+in /var/www/arlekon/data/www/hozdvor.org/themes/default/views/cart/widgets/ShoppingCartWidget/shoppingCart.php (9)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/cart/widgets/ShoppingCartWidget.php (26)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1462010011.4459569454193115234375;}i:44;a:4:{i:0;s:356:"Serving "Yii.COutputCache.application.modules.blog.widgets.StreamWidget..homepage/hp/index....." from cache
+in /var/www/arlekon/data/www/hozdvor.org/themes/default/views/layouts/yupe.php (74)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/homepage/controllers/HpController.php (80)
+in /var/www/arlekon/data/www/hozdvor.org/public/index.php (39)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1462010011.44655704498291015625;}i:45;a:4:{i:0;s:359:"Serving "Yii.COutputCache.application.modules.blog.widgets.LastPostsWidget..homepage/hp/index....." from cache
+in /var/www/arlekon/data/www/hozdvor.org/themes/default/views/layouts/yupe.php (81)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/homepage/controllers/HpController.php (80)
+in /var/www/arlekon/data/www/hozdvor.org/public/index.php (39)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1462010011.446671009063720703125;}i:46;a:4:{i:0;s:355:"Serving "Yii.COutputCache.application.modules.blog.widgets.BlogsWidget..homepage/hp/index....." from cache
+in /var/www/arlekon/data/www/hozdvor.org/themes/default/views/layouts/yupe.php (91)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/homepage/controllers/HpController.php (80)
+in /var/www/arlekon/data/www/hozdvor.org/public/index.php (39)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1462010011.446765899658203125;}i:47;a:4:{i:0;s:359:"Serving "Yii.COutputCache.application.modules.blog.widgets.TagCloudWidget..homepage/hp/index....." from cache
+in /var/www/arlekon/data/www/hozdvor.org/themes/default/views/layouts/yupe.php (101)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/homepage/controllers/HpController.php (80)
+in /var/www/arlekon/data/www/hozdvor.org/public/index.php (39)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1462010011.4468610286712646484375;}i:48;a:4:{i:0;s:416:"Serving "yii:dbschemamysql:host=127.0.0.1;port=3306;dbname=hozdvor_yupe:hozdvor_yupe:{{feedback_feedback}}" from cache
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/feedback/widgets/FaqWidget.php (21)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/feedback/widgets/FaqWidget.php (21)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/controllers/Controller.php (157)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1462010011.4473059177398681640625;}i:49;a:4:{i:0;s:306:"FeedBack.findAll()
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/feedback/widgets/FaqWidget.php (26)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/controllers/Controller.php (157)
+in /var/www/arlekon/data/www/hozdvor.org/themes/default/views/layouts/yupe.php (113)";i:1;s:5:"trace";i:2;s:26:"system.db.ar.CActiveRecord";i:3;d:1462010011.4473950862884521484375;}i:50;a:4:{i:0;s:450:"Querying SQL: SELECT * FROM `yupe_feedback_feedback` `t` WHERE (status = :status) AND (is_faq = :is_faq) ORDER BY id DESC LIMIT 5. Bound with :status=3, :is_faq=1
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/feedback/widgets/FaqWidget.php (26)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/controllers/Controller.php (157)
+in /var/www/arlekon/data/www/hozdvor.org/themes/default/views/layouts/yupe.php (113)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1462010011.4474918842315673828125;}i:51;a:4:{i:0;s:552:"Serving "yii:dbquery:fetchAll:mysql:host=127.0.0.1;port=3306;dbname=hozdvor_yupe:hozdvor_yupe:SELECT * FROM `yupe_feedback_feedback` `t` WHERE (status = :status) AND (is_faq = :is_faq) ORDER BY id DESC LIMIT 5:a:2:{s:7:":status";i:3;s:7:":is_faq";i:1;}" from cache
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/feedback/widgets/FaqWidget.php (26)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/controllers/Controller.php (157)
+in /var/www/arlekon/data/www/hozdvor.org/themes/default/views/layouts/yupe.php (113)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1462010011.4475929737091064453125;}i:52;a:4:{i:0;s:315:"Query result found in cache
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/feedback/widgets/FaqWidget.php (26)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/controllers/Controller.php (157)
+in /var/www/arlekon/data/www/hozdvor.org/themes/default/views/layouts/yupe.php (113)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1462010011.4476230144500732421875;}i:53;a:4:{i:0;s:317:"Serving "__tag__top-menu" from cache
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/extensions/tagcache/TagsCache.php (58)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/menu/models/Menu.php (185)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/menu/widgets/MenuWidget.php (54)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1462010011.462338924407958984375;}i:54;a:4:{i:0;s:334:"Serving "Menu::top-menu0::user_zh_cn" from cache
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/menu/models/Menu.php (185)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/menu/widgets/MenuWidget.php (54)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/controllers/Controller.php (157)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1462010011.4623839855194091796875;}i:55;a:4:{i:0;s:342:"Serving "ContentBlockSTATzh_cn" from cache
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/contentblock/widgets/ContentBlockWidget.php (39)
+in /var/www/arlekon/data/www/hozdvor.org/protected/modules/yupe/components/controllers/Controller.php (157)
+in /var/www/arlekon/data/www/hozdvor.org/themes/default/views/layouts/main.php (70)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1462010011.466454982757568359375;}}}s:9:"profiling";a:3:{s:6:"memory";i:6397040;s:4:"time";d:0.0695168972015380859375;s:8:"messages";a:4:{i:0;a:4:{i:0;s:126:"begin:system.db.CDbCommand.query(SELECT COUNT(*) FROM `yupe_store_product` `t` WHERE t.status = :status. Bound with :status=1)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1462010011.4417340755462646484375;}i:1;a:4:{i:0;s:124:"end:system.db.CDbCommand.query(SELECT COUNT(*) FROM `yupe_store_product` `t` WHERE t.status = :status. Bound with :status=1)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1462010011.44209003448486328125;}i:2;a:4:{i:0;s:150:"begin:system.db.CDbCommand.query(SELECT t.* FROM `yupe_store_product` `t` WHERE t.status = :status ORDER BY t.position LIMIT 20. Bound with :status=1)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1462010011.4423029422760009765625;}i:3;a:4:{i:0;s:148:"end:system.db.CDbCommand.query(SELECT t.* FROM `yupe_store_product` `t` WHERE t.status = :status ORDER BY t.position LIMIT 20. Bound with :status=1)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1462010011.442626953125;}}}s:2:"db";a:2:{s:8:"messages";a:4:{i:0;a:4:{i:0;s:126:"begin:system.db.CDbCommand.query(SELECT COUNT(*) FROM `yupe_store_product` `t` WHERE t.status = :status. Bound with :status=1)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1462010011.4417340755462646484375;}i:1;a:4:{i:0;s:124:"end:system.db.CDbCommand.query(SELECT COUNT(*) FROM `yupe_store_product` `t` WHERE t.status = :status. Bound with :status=1)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1462010011.44209003448486328125;}i:2;a:4:{i:0;s:150:"begin:system.db.CDbCommand.query(SELECT t.* FROM `yupe_store_product` `t` WHERE t.status = :status ORDER BY t.position LIMIT 20. Bound with :status=1)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1462010011.4423029422760009765625;}i:3;a:4:{i:0;s:148:"end:system.db.CDbCommand.query(SELECT t.* FROM `yupe_store_product` `t` WHERE t.status = :status ORDER BY t.position LIMIT 20. Bound with :status=1)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1462010011.442626953125;}}s:11:"connections";a:1:{s:2:"db";a:4:{s:5:"class";s:13:"CDbConnection";s:6:"driver";s:5:"mysql";s:6:"server";s:23:"10.0.19-MariaDB-cll-lve";s:4:"info";s:154:"Uptime: 5874958  Threads: 5  Questions: 1065797387  Slow queries: 125  Opens: 162751  Flush tables: 1  Open tables: 21101  Queries per second avg: 181.413";}}}s:7:"summary";a:7:{s:3:"tag";s:13:"5724809b693db";s:3:"url";s:24:"http://hozdvor.org/zh_cn";s:4:"ajax";b:0;s:6:"method";s:3:"GET";s:4:"code";i:200;s:2:"ip";s:14:"62.210.148.246";s:4:"time";i:1462010011;}}

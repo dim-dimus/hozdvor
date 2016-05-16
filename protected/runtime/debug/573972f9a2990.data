@@ -1,0 +1,179 @@
+a:6:{s:6:"config";a:4:{s:10:"phpVersion";s:6:"5.5.30";s:10:"yiiVersion";s:6:"1.1.16";s:11:"application";a:4:{s:3:"yii";s:6:"1.1.16";s:4:"name";s:5:"Yupe!";s:8:"timezone";s:13:"Europe/Berlin";s:5:"debug";b:1;}s:3:"php";a:4:{s:7:"version";s:6:"5.5.30";s:6:"xdebug";b:0;s:3:"apc";b:0;s:8:"memcache";b:0;}}s:7:"request";a:13:{s:7:"flashes";a:0:{}s:10:"statusCode";i:200;s:14:"requestHeaders";a:8:{s:4:"Host";s:18:"hozdvor.local:8080";s:10:"User-Agent";s:65:"Mozilla/5.0 (Windows NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0";s:6:"Accept";s:63:"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8";s:15:"Accept-Language";s:35:"ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3";s:15:"Accept-Encoding";s:13:"gzip, deflate";s:7:"Referer";s:26:"http://hozdvor.local:8080/";s:6:"Cookie";s:511:"laravel_session=eyJpdiI6Ik1YdE55WFwvUDVxTGEreFdKRHI0ZGFRPT0iLCJ2YWx1ZSI6Im5BZ1lBSmZvZVwvSHJWNnJJK2lZNXIwcFFUd0x5elU3WVliYnJQZWpWVWVUODFDYmJod09KKzFacTNGcmxIczcwVUpjODFsRWZWSEFLeGFNU3hncHpmdz09IiwibWFjIjoiZWU5ODhkOTJlZjRkZTEzOGY1YmIyMGNkZDY3NTNiYTJlYmNjM2ZjYWIyN2I5MDc5NTk2M2VkNzYxYTRhYWZjMCJ9; PHPSESSID=ngbltr2mn28jfnq8gp00mobdk1; YUPE_TOKEN=372db7c58c666ce0523ad40b9935cd04fb28186cs%3A40%3A%223fbe709b17c588eabfb234380ed000abf30b34df%22%3B; language=99039b03770c2d731832991950da5dce992e2e2cs%3A2%3A%22ru%22%3B";s:10:"Connection";s:10:"keep-alive";}s:15:"responseHeaders";a:6:{s:12:"X-Powered-By";s:10:"PHP/5.5.30";s:7:"Expires";s:29:"Thu, 19 Nov 1981 08:52:00 GMT";s:13:"Cache-Control";s:62:"no-store, no-cache, must-revalidate, post-check=0, pre-check=0";s:6:"Pragma";s:8:"no-cache";s:10:"Set-Cookie";a:2:{i:0;s:74:"language=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/";i:1;s:76:"language=99039b03770c2d731832991950da5dce992e2e2cs%3A2%3A%22ru%22%3B; path=/";}s:12:"Content-type";s:9:"text/html";}s:5:"route";s:17:"homepage/hp/index";s:6:"action";s:27:"HpController::actionIndex()";s:12:"actionParams";a:0:{}s:6:"SERVER";a:41:{s:7:"MIBDIRS";s:22:"/xampp/php/extras/mibs";s:10:"MYSQL_HOME";s:16:"\xampp\mysql\bin";s:12:"OPENSSL_CONF";s:29:"/xampp/apache/bin/openssl.cnf";s:20:"PHP_PEAR_SYSCONF_DIR";s:10:"\xampp\php";s:5:"PHPRC";s:10:"\xampp\php";s:3:"TMP";s:10:"\xampp\tmp";s:9:"HTTP_HOST";s:18:"hozdvor.local:8080";s:15:"HTTP_USER_AGENT";s:65:"Mozilla/5.0 (Windows NT 6.1; rv:46.0) Gecko/20100101 Firefox/46.0";s:11:"HTTP_ACCEPT";s:63:"text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8";s:20:"HTTP_ACCEPT_LANGUAGE";s:35:"ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3";s:20:"HTTP_ACCEPT_ENCODING";s:13:"gzip, deflate";s:12:"HTTP_REFERER";s:26:"http://hozdvor.local:8080/";s:11:"HTTP_COOKIE";s:511:"laravel_session=eyJpdiI6Ik1YdE55WFwvUDVxTGEreFdKRHI0ZGFRPT0iLCJ2YWx1ZSI6Im5BZ1lBSmZvZVwvSHJWNnJJK2lZNXIwcFFUd0x5elU3WVliYnJQZWpWVWVUODFDYmJod09KKzFacTNGcmxIczcwVUpjODFsRWZWSEFLeGFNU3hncHpmdz09IiwibWFjIjoiZWU5ODhkOTJlZjRkZTEzOGY1YmIyMGNkZDY3NTNiYTJlYmNjM2ZjYWIyN2I5MDc5NTk2M2VkNzYxYTRhYWZjMCJ9; PHPSESSID=ngbltr2mn28jfnq8gp00mobdk1; YUPE_TOKEN=372db7c58c666ce0523ad40b9935cd04fb28186cs%3A40%3A%223fbe709b17c588eabfb234380ed000abf30b34df%22%3B; language=99039b03770c2d731832991950da5dce992e2e2cs%3A2%3A%22ru%22%3B";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:4:"PATH";s:825:"C:\ProgramData\Oracle\Java\javapath;C:\Ruby22\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows;C:\WebServers\home\fm\www\www.dev\yii-1.1.12\framework\yiic;C:\den\usr\local\php5;C:\ProgramData\ComposerSetup\bin;C:\Program Files\Git\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\nodejs\;C:\Program Files\Microsoft SQL Server Migration Assistant for MySQL\bin\;C:\Program Files\Skypenew\Phone\;D:\phantomjs\bin;C:\HashiCorp\Vagrant\bin;C:\Program Files\Google\Cloud SDK\google-cloud-sdk\bin;C:\RailsInstaller\Git\cmd;C:\RailsInstaller\Ruby1.9.3\bin;C:\WebServers\home\fm\www\www.dev\yii-1.1.12\framework\yiic;C:\Program Files\Git\bin;C:\Users\Dmitriy\AppData\Roaming\npm;C:\Program Files\Google\google_appengine\;C:\cwRsync\bin;C:\cygwin\bin;C:\xampp\php";s:10:"SystemRoot";s:10:"C:\Windows";s:7:"COMSPEC";s:27:"C:\Windows\system32\cmd.exe";s:7:"PATHEXT";s:53:".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC";s:6:"WINDIR";s:10:"C:\Windows";s:16:"SERVER_SIGNATURE";s:0:"";s:15:"SERVER_SOFTWARE";s:47:"Apache/2.4.17 (Win32) OpenSSL/1.0.2d PHP/5.5.30";s:11:"SERVER_NAME";s:13:"hozdvor.local";s:11:"SERVER_ADDR";s:9:"127.0.0.1";s:11:"SERVER_PORT";s:4:"8080";s:11:"REMOTE_ADDR";s:9:"127.0.0.1";s:13:"DOCUMENT_ROOT";s:24:"D:/source/hozdvor/public";s:14:"REQUEST_SCHEME";s:4:"http";s:14:"CONTEXT_PREFIX";s:0:"";s:21:"CONTEXT_DOCUMENT_ROOT";s:24:"D:/source/hozdvor/public";s:12:"SERVER_ADMIN";s:20:"postmaster@localhost";s:15:"SCRIPT_FILENAME";s:34:"D:/source/hozdvor/public/index.php";s:11:"REMOTE_PORT";s:5:"50994";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:14:"REQUEST_METHOD";s:3:"GET";s:12:"QUERY_STRING";s:0:"";s:11:"REQUEST_URI";s:1:"/";s:11:"SCRIPT_NAME";s:10:"/index.php";s:8:"PHP_SELF";s:10:"/index.php";s:18:"REQUEST_TIME_FLOAT";d:1463382777.52;s:12:"REQUEST_TIME";i:1463382777;}s:3:"GET";a:0:{}s:4:"POST";a:0:{}s:6:"COOKIE";a:4:{s:15:"laravel_session";s:276:"eyJpdiI6Ik1YdE55WFwvUDVxTGEreFdKRHI0ZGFRPT0iLCJ2YWx1ZSI6Im5BZ1lBSmZvZVwvSHJWNnJJK2lZNXIwcFFUd0x5elU3WVliYnJQZWpWVWVUODFDYmJod09KKzFacTNGcmxIczcwVUpjODFsRWZWSEFLeGFNU3hncHpmdz09IiwibWFjIjoiZWU5ODhkOTJlZjRkZTEzOGY1YmIyMGNkZDY3NTNiYTJlYmNjM2ZjYWIyN2I5MDc5NTk2M2VkNzYxYTRhYWZjMCJ9";s:9:"PHPSESSID";s:26:"ngbltr2mn28jfnq8gp00mobdk1";s:10:"YUPE_TOKEN";s:88:"372db7c58c666ce0523ad40b9935cd04fb28186cs:40:"3fbe709b17c588eabfb234380ed000abf30b34df";";s:8:"language";s:49:"99039b03770c2d731832991950da5dce992e2e2cs:2:"ru";";}s:5:"FILES";a:0:{}s:7:"SESSION";a:1:{s:40:"554b2557f6330508f7ad6f68d1c7ddedlanguage";s:2:"ru";}}s:3:"log";a:1:{s:8:"messages";a:54:{i:0;a:4:{i:0;s:177:"Loading "urlManager" application component
+in D:\source\hozdvor\protected\modules\yupe\components\urlManager\LanguageBehavior.php (36)
+in D:\source\hozdvor\public\index.php (39)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1463382777.6070001;}i:1;a:4:{i:0;s:293:"Loading "yupe" module
+in D:\source\hozdvor\protected\modules\yupe\components\urlManager\LangUrlManager.php (85)
+in D:\source\hozdvor\protected\modules\yupe\components\urlManager\LangUrlManager.php (39)
+in D:\source\hozdvor\protected\modules\yupe\components\urlManager\LanguageBehavior.php (36)";i:1;s:5:"trace";i:2;s:19:"system.base.CModule";i:3;d:1463382777.6099999;}i:2;a:4:{i:0;s:251:"Loading "db" application component
+in D:\source\hozdvor\protected\modules\yupe\components\WebModule.php (1031)
+in D:\source\hozdvor\protected\modules\yupe\components\WebModule.php (1014)
+in D:\source\hozdvor\protected\modules\yupe\YupeModule.php (644)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1463382777.618;}i:3;a:4:{i:0;s:238:"Opening DB connection
+in D:\source\hozdvor\protected\modules\yupe\components\WebModule.php (1031)
+in D:\source\hozdvor\protected\modules\yupe\components\WebModule.php (1014)
+in D:\source\hozdvor\protected\modules\yupe\YupeModule.php (644)";i:1;s:5:"trace";i:2;s:23:"system.db.CDbConnection";i:3;d:1463382777.6210001;}i:4;a:4:{i:0;s:460:"Querying SQL: 
+                    SELECT param_name, param_value
+                        FROM yupe_yupe_settings
+                        WHERE module_id = :module_id AND type = :type
+                    . Bound with :module_id='yupe', :type=1
+in D:\source\hozdvor\protected\modules\yupe\components\WebModule.php (1042)
+in D:\source\hozdvor\protected\modules\yupe\components\WebModule.php (1014)
+in D:\source\hozdvor\protected\modules\yupe\YupeModule.php (644)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1463382777.6500001;}i:5;a:4:{i:0;s:254:"Loading "cache" application component
+in D:\source\hozdvor\protected\modules\yupe\components\WebModule.php (1042)
+in D:\source\hozdvor\protected\modules\yupe\components\WebModule.php (1014)
+in D:\source\hozdvor\protected\modules\yupe\YupeModule.php (644)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1463382777.6500001;}i:6;a:4:{i:0;s:557:"Serving "yii:dbquery:fetchAll:mysql:host=127.0.0.1;port=3306;dbname=hozdvor_yupe:root:
+                    SELECT param_name, param_value
+                        FROM yupe_yupe_settings
+                        WHERE module_id = :module_id AND type = :type
+                    :a:2:{s:10:":module_id";s:4:"yupe";s:5:":type";i:1;}" from cache
+in D:\source\hozdvor\protected\modules\yupe\components\WebModule.php (1042)
+in D:\source\hozdvor\protected\modules\yupe\components\WebModule.php (1014)
+in D:\source\hozdvor\protected\modules\yupe\YupeModule.php (644)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1463382777.6559999;}i:7;a:4:{i:0;s:244:"Query result found in cache
+in D:\source\hozdvor\protected\modules\yupe\components\WebModule.php (1042)
+in D:\source\hozdvor\protected\modules\yupe\components\WebModule.php (1014)
+in D:\source\hozdvor\protected\modules\yupe\YupeModule.php (644)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1463382777.6559999;}i:8;a:4:{i:0;s:267:"Serving "Yii.CUrlManager.rules" from cache
+in D:\source\hozdvor\protected\modules\yupe\components\urlManager\LangUrlManager.php (59)
+in D:\source\hozdvor\protected\modules\yupe\components\urlManager\LanguageBehavior.php (36)
+in D:\source\hozdvor\public\index.php (39)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1463382777.6600001;}i:9;a:4:{i:0;s:80:"Loading "debug" application component
+in D:\source\hozdvor\public\index.php (39)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1463382777.6619999;}i:10;a:4:{i:0;s:264:"Loading "log" application component
+in D:\source\hozdvor\vendor\zhuravljov\yii2-debug\Yii2DebugPanel.php (279)
+in D:\source\hozdvor\vendor\zhuravljov\yii2-debug\Yii2DebugPanel.php (111)
+in D:\source\hozdvor\vendor\zhuravljov\yii2-debug\panels\Yii2LogPanel.php (24)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1463382777.6689999;}i:11;a:4:{i:0;s:249:"Loading "request" application component
+in D:\source\hozdvor\vendor\zhuravljov\yii2-debug\Yii2Debug.php (294)
+in D:\source\hozdvor\vendor\zhuravljov\yii2-debug\Yii2Debug.php (167)
+in D:\source\hozdvor\vendor\zhuravljov\yii2-debug\Yii2Debug.php (115)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1463382777.675;}i:12;a:4:{i:0;s:227:"Loading "assetManager" application component
+in D:\source\hozdvor\vendor\zhuravljov\yii2-debug\Yii2Debug.php (168)
+in D:\source\hozdvor\vendor\zhuravljov\yii2-debug\Yii2Debug.php (115)
+in D:\source\hozdvor\public\index.php (39)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1463382777.684;}i:13;a:4:{i:0;s:227:"Loading "clientScript" application component
+in D:\source\hozdvor\vendor\zhuravljov\yii2-debug\Yii2Debug.php (170)
+in D:\source\hozdvor\vendor\zhuravljov\yii2-debug\Yii2Debug.php (115)
+in D:\source\hozdvor\public\index.php (39)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1463382777.6889999;}i:14;a:4:{i:0;s:323:"Loading "securityManager" application component
+in D:\source\hozdvor\protected\modules\yupe\components\urlManager\LanguageBehavior.php (84)
+in D:\source\hozdvor\protected\modules\yupe\components\urlManager\LanguageBehavior.php (50)
+in D:\source\hozdvor\protected\modules\yupe\components\urlManager\LanguageBehavior.php (95)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1463382777.6919999;}i:15;a:4:{i:0;s:322:"Loading "statePersister" application component
+in D:\source\hozdvor\protected\modules\yupe\components\urlManager\LanguageBehavior.php (84)
+in D:\source\hozdvor\protected\modules\yupe\components\urlManager\LanguageBehavior.php (50)
+in D:\source\hozdvor\protected\modules\yupe\components\urlManager\LanguageBehavior.php (95)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1463382777.694;}i:16;a:4:{i:0;s:362:"Serving "Yii.CStatePersister.D:\source\hozdvor\protected\runtime\state.bin" from cache
+in D:\source\hozdvor\protected\modules\yupe\components\urlManager\LanguageBehavior.php (84)
+in D:\source\hozdvor\protected\modules\yupe\components\urlManager\LanguageBehavior.php (50)
+in D:\source\hozdvor\protected\modules\yupe\components\urlManager\LanguageBehavior.php (95)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1463382777.6989999;}i:17;a:4:{i:0;s:264:"Loading "user" application component
+in D:\source\hozdvor\protected\modules\yupe\components\urlManager\LanguageBehavior.php (114)
+in D:\source\hozdvor\protected\modules\yupe\components\urlManager\LanguageBehavior.php (95)
+in D:\source\hozdvor\public\index.php (39)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1463382777.701;}i:18;a:4:{i:0;s:267:"Loading "session" application component
+in D:\source\hozdvor\protected\modules\yupe\components\urlManager\LanguageBehavior.php (114)
+in D:\source\hozdvor\protected\modules\yupe\components\urlManager\LanguageBehavior.php (95)
+in D:\source\hozdvor\public\index.php (39)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1463382777.7049999;}i:19;a:4:{i:0;s:68:"Loading "homepage" module
+in D:\source\hozdvor\public\index.php (39)";i:1;s:5:"trace";i:2;s:19:"system.base.CModule";i:3;d:1463382777.7079999;}i:20;a:4:{i:0;s:472:"Querying SQL: 
+                    SELECT param_name, param_value
+                        FROM yupe_yupe_settings
+                        WHERE module_id = :module_id AND type = :type
+                    . Bound with :module_id='homepage', :type=1
+in D:\source\hozdvor\protected\modules\yupe\components\WebModule.php (1042)
+in D:\source\hozdvor\protected\modules\yupe\components\WebModule.php (1014)
+in D:\source\hozdvor\protected\modules\homepage\HomepageModule.php (222)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1463382777.7090001;}i:21;a:4:{i:0;s:569:"Serving "yii:dbquery:fetchAll:mysql:host=127.0.0.1;port=3306;dbname=hozdvor_yupe:root:
+                    SELECT param_name, param_value
+                        FROM yupe_yupe_settings
+                        WHERE module_id = :module_id AND type = :type
+                    :a:2:{s:10:":module_id";s:8:"homepage";s:5:":type";i:1;}" from cache
+in D:\source\hozdvor\protected\modules\yupe\components\WebModule.php (1042)
+in D:\source\hozdvor\protected\modules\yupe\components\WebModule.php (1014)
+in D:\source\hozdvor\protected\modules\homepage\HomepageModule.php (222)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1463382777.711;}i:22;a:4:{i:0;s:252:"Query result found in cache
+in D:\source\hozdvor\protected\modules\yupe\components\WebModule.php (1042)
+in D:\source\hozdvor\protected\modules\yupe\components\WebModule.php (1014)
+in D:\source\hozdvor\protected\modules\homepage\HomepageModule.php (222)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1463382777.711;}i:23;a:4:{i:0;s:179:"Loading "eventManager" application component
+in D:\source\hozdvor\protected\modules\yupe\components\controllers\FrontController.php (34)
+in D:\source\hozdvor\public\index.php (39)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1463382777.7219999;}i:24;a:4:{i:0;s:179:"Loading "themeManager" application component
+in D:\source\hozdvor\protected\modules\yupe\components\controllers\FrontController.php (40)
+in D:\source\hozdvor\public\index.php (39)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1463382777.7290001;}i:25;a:4:{i:0;s:230:"Loading "bootstrap" application component
+in D:\source\hozdvor\themes\default\bootstrap.php (5)
+in D:\source\hozdvor\protected\modules\yupe\components\controllers\FrontController.php (45)
+in D:\source\hozdvor\public\index.php (39)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1463382777.734;}i:26;a:4:{i:0;s:242:"Loading "store" module
+in D:\source\hozdvor\protected\modules\store\components\repository\ProductRepository.php (170)
+in D:\source\hozdvor\protected\modules\homepage\controllers\HpController.php (75)
+in D:\source\hozdvor\public\index.php (39)";i:1;s:5:"trace";i:2;s:19:"system.base.CModule";i:3;d:1463382777.75;}i:27;a:4:{i:0;s:463:"Querying SQL: 
+                    SELECT param_name, param_value
+                        FROM yupe_yupe_settings
+                        WHERE module_id = :module_id AND type = :type
+                    . Bound with :module_id='store', :type=1
+in D:\source\hozdvor\protected\modules\yupe\components\WebModule.php (1042)
+in D:\source\hozdvor\protected\modules\yupe\components\WebModule.php (1014)
+in D:\source\hozdvor\protected\modules\store\StoreModule.php (372)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1463382777.7520001;}i:28;a:4:{i:0;s:560:"Serving "yii:dbquery:fetchAll:mysql:host=127.0.0.1;port=3306;dbname=hozdvor_yupe:root:
+                    SELECT param_name, param_value
+                        FROM yupe_yupe_settings
+                        WHERE module_id = :module_id AND type = :type
+                    :a:2:{s:10:":module_id";s:5:"store";s:5:":type";i:1;}" from cache
+in D:\source\hozdvor\protected\modules\yupe\components\WebModule.php (1042)
+in D:\source\hozdvor\protected\modules\yupe\components\WebModule.php (1014)
+in D:\source\hozdvor\protected\modules\store\StoreModule.php (372)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1463382777.753;}i:29;a:4:{i:0;s:246:"Query result found in cache
+in D:\source\hozdvor\protected\modules\yupe\components\WebModule.php (1042)
+in D:\source\hozdvor\protected\modules\yupe\components\WebModule.php (1014)
+in D:\source\hozdvor\protected\modules\store\StoreModule.php (372)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1463382777.753;}i:30;a:4:{i:0;s:327:"Loading "uploadManager" application component
+in D:\source\hozdvor\protected\modules\yupe\components\behaviors\FileUploadBehavior.php (83)
+in D:\source\hozdvor\protected\modules\yupe\components\behaviors\ImageUploadBehavior.php (52)
+in D:\source\hozdvor\protected\modules\store\components\repository\ProductRepository.php (178)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1463382777.7650001;}i:31;a:4:{i:0;s:387:"Serving "yii:dbschemamysql:host=127.0.0.1;port=3306;dbname=hozdvor_yupe:root:{{store_product}}" from cache
+in D:\source\hozdvor\protected\modules\yupe\components\behaviors\FileUploadBehavior.php (183)
+in D:\source\hozdvor\protected\modules\yupe\components\behaviors\FileUploadBehavior.php (85)
+in D:\source\hozdvor\protected\modules\yupe\components\behaviors\ImageUploadBehavior.php (52)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1463382777.7739999;}i:32;a:4:{i:0;s:314:"Loading "thumbnailer" application component
+in D:\source\hozdvor\protected\modules\yupe\components\behaviors\ImageUploadBehavior.php (54)
+in D:\source\hozdvor\protected\modules\store\components\repository\ProductRepository.php (178)
+in D:\source\hozdvor\protected\modules\homepage\controllers\HpController.php (75)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1463382777.777;}i:33;a:4:{i:0;s:169:"Loading "viewRenderer" application component
+in D:\source\hozdvor\protected\modules\homepage\controllers\HpController.php (80)
+in D:\source\hozdvor\public\index.php (39)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1463382777.7850001;}i:34;a:4:{i:0;s:233:"Loading "messages" application component
+in D:\source\hozdvor\themes\default\views\homepage\hp\store.php (9)
+in D:\source\hozdvor\protected\modules\homepage\controllers\HpController.php (80)
+in D:\source\hozdvor\public\index.php (39)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1463382777.826;}i:35;a:4:{i:0;s:284:"Loading "widgetFactory" application component
+in D:\source\hozdvor\protected\modules\yupe\components\controllers\Controller.php (157)
+in D:\source\hozdvor\themes\default\views\homepage\hp\store.php (39)
+in D:\source\hozdvor\protected\modules\homepage\controllers\HpController.php (80)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1463382777.832;}i:36;a:4:{i:0;s:255:"Product.count()
+in D:\source\hozdvor\vendor\clevertech\yii-booster\src\widgets\TbListView.php (43)
+in D:\source\hozdvor\protected\modules\yupe\components\controllers\Controller.php (157)
+in D:\source\hozdvor\themes\default\views\homepage\hp\store.php (39)";i:1;s:5:"trace";i:2;s:26:"system.db.ar.CActiveRecord";i:3;d:1463382777.8380001;}i:37;a:4:{i:0;s:346:"Querying SQL: SELECT COUNT(*) FROM `yupe_store_product` `t` WHERE t.status = :status. Bound with :status=1
+in D:\source\hozdvor\vendor\clevertech\yii-booster\src\widgets\TbListView.php (43)
+in D:\source\hozdvor\protected\modules\yupe\components\controllers\Controller.php (157)
+in D:\source\hozdvor\themes\default\views\homepage\hp\store.php (39)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1463382777.8410001;}i:38;a:4:{i:0;s:257:"Product.findAll()
+in D:\source\hozdvor\vendor\clevertech\yii-booster\src\widgets\TbListView.php (43)
+in D:\source\hozdvor\protected\modules\yupe\components\controllers\Controller.php (157)
+in D:\source\hozdvor\themes\default\views\homepage\hp\store.php (39)";i:1;s:5:"trace";i:2;s:26:"system.db.ar.CActiveRecord";i:3;d:1463382777.842;}i:39;a:4:{i:0;s:370:"Querying SQL: SELECT t.* FROM `yupe_store_product` `t` WHERE t.status = :status ORDER BY t.position LIMIT 20. Bound with :status=1
+in D:\source\hozdvor\vendor\clevertech\yii-booster\src\widgets\TbListView.php (43)
+in D:\source\hozdvor\protected\modules\yupe\components\controllers\Controller.php (157)
+in D:\source\hozdvor\themes\default\views\homepage\hp\store.php (39)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1463382777.842;}i:40;a:4:{i:0;s:283:"Loading "coreMessages" application component
+in D:\source\hozdvor\protected\modules\yupe\components\controllers\Controller.php (157)
+in D:\source\hozdvor\themes\default\views\homepage\hp\store.php (39)
+in D:\source\hozdvor\protected\modules\homepage\controllers\HpController.php (80)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1463382777.8469999;}i:41;a:4:{i:0;s:299:"Loading "cart" application component
+in D:\source\hozdvor\themes\default\views\cart\widgets\ShoppingCartWidget\shoppingCart.php (9)
+in D:\source\hozdvor\protected\modules\cart\widgets\ShoppingCartWidget.php (26)
+in D:\source\hozdvor\protected\modules\yupe\components\controllers\Controller.php (157)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1463382777.868;}i:42;a:4:{i:0;s:312:"Loading "couponManager" application component
+in D:\source\hozdvor\protected\modules\cart\components\shopping-cart\EShoppingCart.php (38)
+in D:\source\hozdvor\themes\default\views\cart\widgets\ShoppingCartWidget\shoppingCart.php (9)
+in D:\source\hozdvor\protected\modules\cart\widgets\ShoppingCartWidget.php (26)";i:1;s:5:"trace";i:2;s:14:"system.CModule";i:3;d:1463382777.869;}i:43;a:4:{i:0;s:296:"Serving "Yii.COutputCache.application.modules.blog.widgets.StreamWidget..homepage/hp/index....." from cache
+in D:\source\hozdvor\themes\default\views\layouts\yupe.php (74)
+in D:\source\hozdvor\protected\modules\homepage\controllers\HpController.php (80)
+in D:\source\hozdvor\public\index.php (39)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1463382777.8770001;}i:44;a:4:{i:0;s:299:"Serving "Yii.COutputCache.application.modules.blog.widgets.LastPostsWidget..homepage/hp/index....." from cache
+in D:\source\hozdvor\themes\default\views\layouts\yupe.php (81)
+in D:\source\hozdvor\protected\modules\homepage\controllers\HpController.php (80)
+in D:\source\hozdvor\public\index.php (39)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1463382777.878;}i:45;a:4:{i:0;s:295:"Serving "Yii.COutputCache.application.modules.blog.widgets.BlogsWidget..homepage/hp/index....." from cache
+in D:\source\hozdvor\themes\default\views\layouts\yupe.php (91)
+in D:\source\hozdvor\protected\modules\homepage\controllers\HpController.php (80)
+in D:\source\hozdvor\public\index.php (39)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1463382777.8800001;}i:46;a:4:{i:0;s:299:"Serving "Yii.COutputCache.application.modules.blog.widgets.TagCloudWidget..homepage/hp/index....." from cache
+in D:\source\hozdvor\themes\default\views\layouts\yupe.php (101)
+in D:\source\hozdvor\protected\modules\homepage\controllers\HpController.php (80)
+in D:\source\hozdvor\public\index.php (39)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1463382777.881;}i:47;a:4:{i:0;s:348:"Serving "yii:dbschemamysql:host=127.0.0.1;port=3306;dbname=hozdvor_yupe:root:{{feedback_feedback}}" from cache
+in D:\source\hozdvor\protected\modules\feedback\widgets\FaqWidget.php (21)
+in D:\source\hozdvor\protected\modules\feedback\widgets\FaqWidget.php (21)
+in D:\source\hozdvor\protected\modules\yupe\components\controllers\Controller.php (157)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1463382777.8840001;}i:48;a:4:{i:0;s:246:"FeedBack.findAll()
+in D:\source\hozdvor\protected\modules\feedback\widgets\FaqWidget.php (26)
+in D:\source\hozdvor\protected\modules\yupe\components\controllers\Controller.php (157)
+in D:\source\hozdvor\themes\default\views\layouts\yupe.php (113)";i:1;s:5:"trace";i:2;s:26:"system.db.ar.CActiveRecord";i:3;d:1463382777.8840001;}i:49;a:4:{i:0;s:390:"Querying SQL: SELECT * FROM `yupe_feedback_feedback` `t` WHERE (status = :status) AND (is_faq = :is_faq) ORDER BY id DESC LIMIT 5. Bound with :status=3, :is_faq=1
+in D:\source\hozdvor\protected\modules\feedback\widgets\FaqWidget.php (26)
+in D:\source\hozdvor\protected\modules\yupe\components\controllers\Controller.php (157)
+in D:\source\hozdvor\themes\default\views\layouts\yupe.php (113)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1463382777.8840001;}i:50;a:4:{i:0;s:484:"Serving "yii:dbquery:fetchAll:mysql:host=127.0.0.1;port=3306;dbname=hozdvor_yupe:root:SELECT * FROM `yupe_feedback_feedback` `t` WHERE (status = :status) AND (is_faq = :is_faq) ORDER BY id DESC LIMIT 5:a:2:{s:7:":status";i:3;s:7:":is_faq";i:1;}" from cache
+in D:\source\hozdvor\protected\modules\feedback\widgets\FaqWidget.php (26)
+in D:\source\hozdvor\protected\modules\yupe\components\controllers\Controller.php (157)
+in D:\source\hozdvor\themes\default\views\layouts\yupe.php (113)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1463382777.885;}i:51;a:4:{i:0;s:255:"Query result found in cache
+in D:\source\hozdvor\protected\modules\feedback\widgets\FaqWidget.php (26)
+in D:\source\hozdvor\protected\modules\yupe\components\controllers\Controller.php (157)
+in D:\source\hozdvor\themes\default\views\layouts\yupe.php (113)";i:1;s:5:"trace";i:2;s:20:"system.db.CDbCommand";i:3;d:1463382777.885;}i:52;a:4:{i:0;s:271:"Serving "Menu::top-menu0::user_ru" from cache
+in D:\source\hozdvor\protected\modules\menu\models\Menu.php (185)
+in D:\source\hozdvor\protected\modules\menu\widgets\MenuWidget.php (54)
+in D:\source\hozdvor\protected\modules\yupe\components\controllers\Controller.php (157)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1463382777.9059999;}i:53;a:4:{i:0;s:279:"Serving "ContentBlockSTATru" from cache
+in D:\source\hozdvor\protected\modules\contentblock\widgets\ContentBlockWidget.php (39)
+in D:\source\hozdvor\protected\modules\yupe\components\controllers\Controller.php (157)
+in D:\source\hozdvor\themes\default\views\layouts\main.php (70)";i:1;s:5:"trace";i:2;s:25:"system.caching.CFileCache";i:3;d:1463382777.9360001;}}}s:9:"profiling";a:3:{s:6:"memory";i:8965032;s:4:"time";d:0.42400002479553223;s:8:"messages";a:4:{i:0;a:4:{i:0;s:126:"begin:system.db.CDbCommand.query(SELECT COUNT(*) FROM `yupe_store_product` `t` WHERE t.status = :status. Bound with :status=1)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1463382777.8410001;}i:1;a:4:{i:0;s:124:"end:system.db.CDbCommand.query(SELECT COUNT(*) FROM `yupe_store_product` `t` WHERE t.status = :status. Bound with :status=1)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1463382777.8410001;}i:2;a:4:{i:0;s:150:"begin:system.db.CDbCommand.query(SELECT t.* FROM `yupe_store_product` `t` WHERE t.status = :status ORDER BY t.position LIMIT 20. Bound with :status=1)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1463382777.842;}i:3;a:4:{i:0;s:148:"end:system.db.CDbCommand.query(SELECT t.* FROM `yupe_store_product` `t` WHERE t.status = :status ORDER BY t.position LIMIT 20. Bound with :status=1)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1463382777.8429999;}}}s:2:"db";a:2:{s:8:"messages";a:4:{i:0;a:4:{i:0;s:126:"begin:system.db.CDbCommand.query(SELECT COUNT(*) FROM `yupe_store_product` `t` WHERE t.status = :status. Bound with :status=1)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1463382777.8410001;}i:1;a:4:{i:0;s:124:"end:system.db.CDbCommand.query(SELECT COUNT(*) FROM `yupe_store_product` `t` WHERE t.status = :status. Bound with :status=1)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1463382777.8410001;}i:2;a:4:{i:0;s:150:"begin:system.db.CDbCommand.query(SELECT t.* FROM `yupe_store_product` `t` WHERE t.status = :status ORDER BY t.position LIMIT 20. Bound with :status=1)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1463382777.842;}i:3;a:4:{i:0;s:148:"end:system.db.CDbCommand.query(SELECT t.* FROM `yupe_store_product` `t` WHERE t.status = :status ORDER BY t.position LIMIT 20. Bound with :status=1)";i:1;s:7:"profile";i:2;s:26:"system.db.CDbCommand.query";i:3;d:1463382777.8429999;}}s:11:"connections";a:1:{s:2:"db";a:4:{s:5:"class";s:13:"CDbConnection";s:6:"driver";s:5:"mysql";s:6:"server";s:21:"5.5.5-10.1.10-MariaDB";s:4:"info";s:136:"Uptime: 252880  Threads: 2  Questions: 322  Slow queries: 0  Opens: 229  Flush tables: 1  Open tables: 28  Queries per second avg: 0.001";}}}s:7:"summary";a:7:{s:3:"tag";s:13:"573972f9a2990";s:3:"url";s:26:"http://hozdvor.local:8080/";s:4:"ajax";b:0;s:6:"method";s:3:"GET";s:4:"code";i:200;s:2:"ip";s:9:"127.0.0.1";s:4:"time";i:1463382777;}}
